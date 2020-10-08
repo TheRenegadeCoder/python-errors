@@ -4,7 +4,7 @@ Below, you'll find a table of articles which cover different Python errors. As t
 
 | Index | Error       | Error Message                                    | Article                         | Publish Date  | Example                     |
 |-------|-------------|--------------------------------------------------|---------------------------------|---------------|-----------------------------|
-| 3     | TypeError   | Can't Multiply Sequence by Non-int of Type 'str' | [Article]type-error-article]    | July 17, 2020 | [Tweet][type-error-tweet]   |
+| 3     | TypeError   | Can't Multiply Sequence by Non-int of Type 'str' | [Article][type-error-article]    | July 17, 2020 | [Tweet][type-error-tweet]   |
 | 2     | IndexError  | String Index out of Range                        | [Article][index-error-article]  | Jun 1, 2020   | [Tweet][index-error-tweet]  |
 | 1     | SyntaxError | Expected an Indented Block                       | [Article][syntax-error-article] | May 29, 2020  | [Tweet][syntax-error-tweet] |
 
